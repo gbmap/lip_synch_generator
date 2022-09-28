@@ -1,0 +1,6 @@
+
+*.mp4
+*.wav
+*.mp3
+__pycache__/
+*.egg-info/

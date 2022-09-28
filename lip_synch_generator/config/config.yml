@@ -1,0 +1,69 @@
+---
+config:
+  # How much should a phoneme last before inserting a closed mouth frame
+  duration_threshold: 0.45 
+images:
+  - image: closed.png
+    symbols:
+      - "-"
+  - image: "aei.png"
+    symbols: 
+      - a
+      - ɐ
+      - ɑ
+      - ɒ
+      - æ
+      - ɶ
+      - ɛ
+      - œ
+      - ɜ
+      - ɞ
+      - ʌ
+      - e
+      - ɘ
+      - t͡ʃʲ
+  # - image: "i.png"
+  #   symbols:
+  - image: "o.png"
+    symbols: 
+      - o
+      - ɔ
+      - ø
+      - ɤ
+      - uə
+  - image: "chshj.png"
+    symbols: 
+      - ʂ
+      - s
+      - ŋ
+  - image: l.png
+    symbols:
+      - l
+  - image: bpm.png
+    symbols:
+      - m
+      - b
+      - p
+  - image: qw.png
+    symbols:
+      - q
+      - w
+      - u
+      - ɯ
+      - ʊ
+      - ʉ
+      - ɻ̩
+  - image: fc.png
+    symbols:
+      - t͡
+  - image: r.png
+    symbols:
+      - r
+      - ʃ
+      - i
+      - ɪ
+      - ɨ
+      - ʏ
+      - ᵻ
+      - y
+      - ɨ
